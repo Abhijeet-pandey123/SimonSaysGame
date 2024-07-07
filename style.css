@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    
+}
+.maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    height: 50vh;
+    width: 50vw;
+    justify-content: center;
+    margin: auto;
+}
+
+.innerdiv{
+    height: 50%;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 20%;
+    margin: 7px;
+    font-weight: 900;
+}
+.red{
+    background-color: red;
+}
+.blue{
+   background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.flash{
+    background-color: white;
+}
